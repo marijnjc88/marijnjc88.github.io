@@ -1,4 +1,4 @@
-[Return to article](/pages/pcg-blog-1/blog.html)
+[Return to article](/pages/pcg-blog-1/blog.html#random-walk)
 
 ```cpp
 std::vector<Corridor> DungeonGenerator::GenerateCorridorsDirect(const Polygon& area, const std::vector<Polygon>& rooms, const int allowOverlapPercentage, const int maxCorridorAttempts)

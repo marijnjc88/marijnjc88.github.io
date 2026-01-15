@@ -1,4 +1,4 @@
-[Return to article](/pages/pcg-blog-1/blog.html)
+[Return to article](/pages/pcg-blog-1/blog.html#binary-space-partitioning)
 
 ```cpp
 std::vector<Polygon> DungeonGenerator::GenerateRoomsBinary(const Polygon& area, const int maxRoomCount, const int minWidth, const int minHeight, const int trimSize, const BinaryDirectionBias directionBias)

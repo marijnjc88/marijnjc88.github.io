@@ -1,4 +1,4 @@
-[Return to article](/pages/pcg-blog-1/blog.html)
+[Return to article](/pages/pcg-blog-1/blog.html#random-placement)
 
 ```cpp
 std::vector<Polygon> DungeonGenerator::GenerateRoomsRandomPlacement(const Polygon& area, const size_t attempts, const int minWidth, const int maxWidth, const int minHeight, const int maxHeight)
