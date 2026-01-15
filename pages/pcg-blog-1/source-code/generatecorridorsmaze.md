@@ -1,3 +1,5 @@
+[Return to article](/pages/pcg-blog-1/blog.html)
+
 ```cpp
 std::vector<Corridor> DungeonGenerator::GenerateCorridorsMaze(const Polygon& area, const std::vector<Polygon>& rooms)
 {

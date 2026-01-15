@@ -1,3 +1,5 @@
+[Return to article](/pages/pcg-blog-1/blog.html)
+
 ```cpp
 std::vector<Polygon> DungeonGenerator::GenerateRoomsBinary(const Polygon& area, const int maxRoomCount, const int minWidth, const int minHeight, const int trimSize, const BinaryDirectionBias directionBias)
 {
