@@ -48,7 +48,7 @@ Now that we have some rooms, we'll need some corridors to connect them. To gener
 
 ### Random Walk
 
-[Source code](../pcg-blog-1/source-code/generatecorridorsdirect.html)
+[Source code](../pcg-blog-1/source-code/generatecorridorsrandomwalk.html)
 
 The first algorithm I implemented is based on a random walk algorithm. How a random walk works, is you give it a starting point along a grid, and make it randomly walk along the grid. My algorithm works slightly differently. Instead of randomly walking along the grid, I also provide the algorithm a destination point that the random walk walks toward. Now, instead of randomly wandering the grid, the algorithm has a destination in mind, and it can only ever move closer to this destination.
 
